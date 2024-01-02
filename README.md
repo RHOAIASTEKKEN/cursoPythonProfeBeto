@@ -1,8 +1,8 @@
-<!-- COMO GUARDAR LOS DATOS EN GITHUB PARA TENERLO EN CUENTA
+COMO GUARDAR LOS DATOS EN GITHUB PARA TENERLO EN CUENTA
 -git status
 -git add .
 -git commit -m "texto"
--git push
+-git push --principal
 
 
 
@@ -25,5 +25,3 @@ funciones base
 
 
 
-
--->
