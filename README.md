@@ -2,6 +2,7 @@
 -git status
 -git add .
 -git commit -m "texto"
+-git push
 
 
 
@@ -11,4 +12,18 @@ SESION 1 CURSO ESPECIAL PYTHON
 
 1.- INSTALACION DE HERRAMIENTAS
 2.- PYTHON 12
-3.- VSCODE -->
+3.- VSCODE 
+
+-------------------------------
+sintaxis y elementos
+variables
+tipos de dato int, float, str
+operadores aritmeticos, relativos, logicos
+estructuras de control, if, while, for
+tratamiento de errores try catch
+funciones base
+
+
+
+
+-->
