@@ -1,1 +1,1 @@
-print("hello word")
+print("hello word, conexion correcta con python")
