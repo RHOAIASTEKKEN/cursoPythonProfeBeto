@@ -28,3 +28,12 @@ funciones base
 
 ![Alt text](image.png)
 ![Alt text](image-1.png)
+CREACION DE LA TABLA EN EL SERVIDOR O XAMPP EN SU DEBIDO CASO
+
+CREATE TABLE productos(
+	idProducto int(10) PRIMARY KEY,
+    nombre varchar(30),
+    descripcion varchar(30),
+    cantidad int(10),
+    precio float(8,2)
+);
