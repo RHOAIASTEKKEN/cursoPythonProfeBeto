@@ -13,3 +13,5 @@ with open('import2.txt', 'wb') as archivo:
     archivo.write(content)
 
 print(f'El contenido ha sido guardado en "import2.txt"')
+
+print("selecicon de datos compartido de la seleccion de los demas componentes ")
